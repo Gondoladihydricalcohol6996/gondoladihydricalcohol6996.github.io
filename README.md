@@ -1,11 +1,10 @@
-# Data Scientist
+# Chemical Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: CFD, Aspen Plus, JMP, SQL
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education					       		
+- MSc, Chemical Engineering	| University of Porto, Portugal (_July 2026_)	 			        		
+- BSc, Biochemistry | University of Porto, Portugal (_July 2024_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
