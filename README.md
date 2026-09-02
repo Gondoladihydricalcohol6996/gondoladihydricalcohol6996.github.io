@@ -21,6 +21,7 @@ curative processes within wine oxidation”
 ## Volunteer Experience
 ### Team Leader - Fundraising & Food Collection Campaigns (_2021 - 2025_)
 [Banco Alimentar Porto](https://www.bancoalimentar.pt/bancos/porto/)
+
 Started as a volunteer and progressed to Team Leader, coordinating a team of 12 volunteers in fundraising and food collection campaigns.
 
 Key responsibilities:
@@ -35,23 +36,26 @@ Mentored young students throughout an academic year, supporting them in improvin
 ## Academic Association
 ### NEEQ - Chemical Engineering Students’ Association(_2024 - 2025_)
 [NEEQ](https://fe.up.pt/neeq/)
+
 As a member of the Pedagogical Department, I supported students by facilitating access to academic resources, including organizing and maintaining a shared Google Drive with lecture notes and study materials. I also organized **ChemBonding**, an event designed to connect Chemical Engineering students with companies and provide opportunities for career and industry engagement
 
 ### JEQ - Chemical Engineering Symposium(_2025 - 2026_)
 [JEQ](https://linktr.ee/JornadasEQ_?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQMxMDAAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnk1GmGMQeNsn5sM_S5qFkfdQBVSloRZ3s56j0Rf7tGi6lLSNw7ET_HWZQ87o_aem_OzhzIXXUEODYCh9Ns2ilPQ)
+
 As a member of the External Relations Team, I was responsible for contacting and communicating with companies participating in the event, managing company outreach and supporting the establishment of partnerships for the job fair
-(/assets/img/jeq.JPG)
+![jeq](/assets/img/jeq.JPG)
 
 
 ## Hobbies
 ### Music
 [AMSPT](https://www.instagram.com/amspedrodatorre/)
+
 Since I was 8 years old, music has never left my life. I was part of the board of this music school first as a student representative and later as a member of the Fiscal Council. Today, I continue to enjoy everything I learned and the experiences I gained here
 
 ### Trekking
 Passionate about adventure and exploring the world one trail at a time
-(/assets/img/cimo.HEIC)
-(/assets/img/lago.HEIC)
+![cimo](/assets/img/cimo.HEIC)
+![lago](/assets/img/lago.HEIC)
 
 
 
