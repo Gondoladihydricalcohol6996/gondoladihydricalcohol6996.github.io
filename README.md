@@ -9,7 +9,8 @@
 ## Work Experience
 **Process Engineer Intern @ P&G (_February 2026 - June 2026_)**
 - Predict process failure modes and identify operating conditions associated with improved process performance
-- More than 90% reduction in failure rate- 
+- More than 90% reduction in failure rate
+- Erasmus+ experience
 
 **Research Intern @ Proenol (_February 2024 - June 2024_)**
 - Research internship with the topic “Unraveling the potential of oenological products for preventive and
