@@ -3,8 +3,8 @@
 #### Technical Skills: CFD, Aspen Plus, JMP, SQL
 
 ## Education					       		
-- MSc, Chemical Engineering	| University of Porto, Portugal (_July 2026_)	 			        		
-- BSc, Biochemistry | University of Porto, Portugal (_July 2024_)
+- MSc, Chemical Engineering	| University of Porto (_July 2026_)	 			        		
+- BSc, Biochemistry | University of Porto (_July 2024_)
 
 ## Work Experience
 **Process Engineer Intern @ P&G (_February 2026 - June 2026_)**
@@ -55,7 +55,6 @@ Since I was 8 years old, music has never left my life. I was part of the board o
 ### Trekking
 Passionate about adventure and exploring the world one trail at a time
 ![cimo](/assets/img/cimo.HEIC)
-![lago](/assets/img/lago.HEIC)
 
 
 
