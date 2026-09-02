@@ -1,4 +1,4 @@
-# Chemical Engineer
+# Chemical Engineer | Process and Product
 
 #### Technical Skills: CFD, Aspen Plus, JMP, SQL
 
@@ -7,16 +7,45 @@
 - BSc, Biochemistry | University of Porto, Portugal (_July 2024_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Process Engineer Intern @ P&G (_February 2026 - June 2026_)**
+- Predict process failure modes and identify operating conditions associated with improved process performance
+- More than 90% reduction in failure rate- 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Research Intern @ Proenol (_February 2024 - June 2024_)**
+- Research internship with the topic “Unraveling the potential of oenological products for preventive and
+curative processes within wine oxidation”
+- Tested different vegan oenological products on wine oxidation, evaluating their effectiveness in preventive and curative treatments
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+## Volunteer Experience
+### Team Leader - Fundraising & Food Collection Campaigns (_2021 - 2025_)
+[Banco Alimentar Porto](https://www.bancoalimentar.pt/bancos/porto/)
+Started as a volunteer and progressed to Team Leader, coordinating a team of 12 volunteers in fundraising and food collection campaigns.
+
+Key responsibilities:
+- Organized volunteer shifts and coordinated team availability to ensure adequate coverage.
+- Ensured all necessary materials and resources were available for each campaign.
+- Coordinated with food transportation services to arrange the collection of donated food.
+- Supported the team throughout the campaigns, addressing logistical needs and ensuring smooth operations
+
+### Student Mentor (_2022 - 2023_)
+Mentored young students throughout an academic year, supporting them in improving their English and Mathematics skills and academic performance
+
+## Academic Association
+### NEEQ - Chemical Engineering Students’ Association(_2024 - 2025_)
+[NEEQ](https://fe.up.pt/neeq/)
+As a member of the Pedagogical Department, I supported students by facilitating access to academic resources, including organizing and maintaining a shared Google Drive with lecture notes and study materials. I also organized **ChemBonding**, an event designed to connect Chemical Engineering students with companies and provide opportunities for career and industry engagement
+
+### JEQ - Chemical Engineering Symposium(_2025 - 2026_)
+[JEQ](https://linktr.ee/JornadasEQ_?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQMxMDAAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnk1GmGMQeNsn5sM_S5qFkfdQBVSloRZ3s56j0Rf7tGi6lLSNw7ET_HWZQ87o_aem_OzhzIXXUEODYCh9Ns2ilPQ)
+As a member of the External Relations Team, I was responsible for contacting and communicating with companies participating in the event, managing company outreach and supporting the establishment of partnerships for the job fair
+
+## Hobbies
+### Music
+[AMSPT](https://www.instagram.com/amspedrodatorre/)
+Since I was 8 years old, music has never left my life. I was part of the board of this music school first as a student representative and later as a member of the Fiscal Council. Today, I continue to enjoy everything I learned and the experiences I gained here
+
+### Trekking
+Passionate about adventure and exploring the world one trail at a time
+
+
