@@ -43,7 +43,8 @@ As a member of the Pedagogical Department, I supported students by facilitating 
 [JEQ](https://linktr.ee/JornadasEQ_?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQMxMDAAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnk1GmGMQeNsn5sM_S5qFkfdQBVSloRZ3s56j0Rf7tGi6lLSNw7ET_HWZQ87o_aem_OzhzIXXUEODYCh9Ns2ilPQ)
 
 As a member of the External Relations Team, I was responsible for contacting and communicating with companies participating in the event, managing company outreach and supporting the establishment of partnerships for the job fair
-![](/assets/img/jeq.JPG)
+
+<img src="https://github.com/marianalagoa/marianalagoa.github.io/blob/main/assets/img/jeq.JPG" width="280" height="300" />
 
 
 ## Hobbies
